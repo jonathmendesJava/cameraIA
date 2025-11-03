@@ -1,0 +1,8 @@
+# Dependências opcionais - Requer instalação de CMake no Windows
+# Para instalar face-recognition no Windows:
+# 1. Instale CMake: https://cmake.org/download/ (adicione ao PATH durante instalação)
+# 2. Instale Visual Studio Build Tools (ou Visual Studio Community) com C++ workload
+# 3. Execute: pip install dlib
+# 4. Execute: pip install face-recognition==1.3.0
+
+face-recognition==1.3.0
